@@ -16,11 +16,6 @@ Welcome to the README for the Quiz App! This app is designed to provide users wi
 ## UIs
 
 - ![screenshot1](<Simulator Screenshot - iPhone 14 Pro - 2023-09-21 at 07.06.38.png>)
-- ![screenshot2](<Simulator Screenshot - iPhone 14 Pro - 2023-09-20 at 23.48.49.png>)
-- ![screenshot3](<Simulator Screenshot - iPhone 14 Pro - 2023-09-20 at 23.48.22.png>)
-- ![screenshot4](<Simulator Screenshot - iPhone 14 Pro - 2023-09-20 at 23.44.51.png>)
-- ![screenshot5](image.png)
-- ![screenshot6](image-1.png)
 
 ### Prerequisites
 
